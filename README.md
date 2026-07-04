@@ -1,5 +1,8 @@
 # MiRepo
-This is an AI that i made myself with the help of TM that compares images of Cristiano Ronaldo and Messi. 
 
-Este es una IA que hice yo con TM que compara imagenes de cr7 (Cristiano) y Messi. 
+Eng.
+This is an AI that I made myself with the help of TM that compares images of Cristiano Ronaldo and Messi. This was an introduction proyect for my studies.
+
+Esp.
+Esta es una IA que hice yo con TM que compara imagenes de Cristiano Ronaldo y Messi. Esto fue un proyecto de introduccion para mis estudios.
 https://teachablemachine.withgoogle.com/models/9VoYdCrQf/
